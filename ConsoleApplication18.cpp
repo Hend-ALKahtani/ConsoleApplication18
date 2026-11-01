@@ -11,9 +11,7 @@ int main()
 	int Grade2 = 90;
 	int Grade3 = 80;
     int gg=00;
-
 	double avrage = calculateAvrage(85, 90, 80);
-
 	cout << "Student " << studentName << endl;
 	cout << "Grade1 " << grade1 << endl;
 	cout << "Grade2 " << Grade2 << endl;
