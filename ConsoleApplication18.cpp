@@ -11,12 +11,13 @@ int main()
 	int Grade2 = 90;
 	int Grade3 = 80;
 
-	double avrage = calculateAvrage(85, 90, 80);
 
+	double avrage = calculateAvrage(85, 90, 80);
 	cout << "Student " << studentName << endl;
 	cout << "Grade1 " << grade1 << endl;
 	cout << "Grade2 " << Grade2 << endl;
 	cout << "Grade3 " << Grade3 << endl;
 	cout << "Avrage " << avrage;
+	cou<<"hello hind i wish to be good";
 }
 
