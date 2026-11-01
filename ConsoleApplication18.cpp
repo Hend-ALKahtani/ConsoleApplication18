@@ -10,7 +10,7 @@ int main()
 	int grade1 = 85;
 	int Grade2 = 90;
 	int Grade3 = 80;
-
+    int gg=00;
 
 	double avrage = calculateAvrage(85, 90, 80);
 
